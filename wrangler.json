@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "test01",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "131318cf-5fbd-41c9-97f3-cd549f31a4b3",
+      "database_name": "lingering-feather-1326-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
